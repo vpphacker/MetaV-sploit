@@ -12,10 +12,15 @@ IDS signature development, and exploit research.
 Install Metasploit Framework In Termux
 
 $ apt update
+
 $ apt install git 
+
 $ git clone https://github.com/vpphacker/MetaV-sploit.git
+
 $ cd MetaV-sploit
+
 $ python install.py
+
 $ python2 vsploit.py
 
 Now Tool will Guid You
