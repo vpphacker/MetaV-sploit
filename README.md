@@ -33,7 +33,7 @@ $ python2 vsploit.py
 Now Tool will Guid You
 
 ### Website 
-https://www.vpphacker.ml
+www.vpphacker.ml
 
 ### Telegram
 https://t.me/vpphacker
