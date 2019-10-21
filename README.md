@@ -32,8 +32,6 @@ $ python2 vsploit.py
 ```
 Now Tool will Guid You
 
-https://github.com/vpphacker/MetaV-sploit/commit/5732a7c2aa68ce720aac5f18d5ad4baa50f79d01#diff-aefb5bba4ebdecb3a2337119792ce99f
-
 ### Tutorial In Details 
 https://www.vpphacker.ml/2019/09/how-to-install-metasploit-framework.html?m=1
 
