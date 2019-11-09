@@ -37,10 +37,10 @@ $ python2 vsploit.py
 Now Tool will Guid You
 
 ### Tutorial In Details 
-https://www.vpphacker.ml/2019/09/how-to-install-metasploit-framework.html?m=1
+https://www.vpphacker.com/2019/09/how-to-install-metasploit-framework.html
 
 ### Website 
-www.vpphacker.ml
+www.vpphacker.com
 
 ### Telegram
 https://t.me/vpphacker
